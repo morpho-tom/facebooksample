@@ -1,2 +1,2 @@
 # firstproject1
-sample project
+project num 1
