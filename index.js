@@ -1,2 +1,2 @@
 let achu = 20 + 10
-console.log(achu);
+console.log(achu);//30
